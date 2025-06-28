@@ -4,7 +4,7 @@ Minhas configurações do terminal [WezTerm](https://wezterm.org/)
 
 ---
 
-<img src="./wezterm.png"></img>
+![](./wezterm.png)
 
 ### Caminho do arquivo
 ~/.wezterm.lua
